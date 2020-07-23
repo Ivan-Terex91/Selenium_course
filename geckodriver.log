@@ -1,0 +1,12 @@
+1595417672925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHrbqPJ"
+1595417678529	Marionette	INFO	Listening on port 37595
+1595417678546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1595351926, line 2923: unreachable code after return statement
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1595351926, line 2923: unreachable code after return statement
+1595417703708	Marionette	INFO	Stopped listening on port 37595
+1595418553845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFVkrDm"
+1595418558575	Marionette	INFO	Listening on port 45351
+1595418558660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1595418561272	Marionette	INFO	Stopped listening on port 45351
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
